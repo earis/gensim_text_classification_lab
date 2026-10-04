@@ -1,0 +1,5 @@
+{
+  "method": "fasttext_mean_vector",
+  "accuracy": 0.6199095022624435,
+  "macro_f1": 0.35769046837978247
+}
